@@ -1,0 +1,8 @@
+yocra3/invertfregene:latest
+yocra3/invertfregene:v1.0.0
+yocra3/slim:dev
+yocra3/rsession_chd_marato:latest
+yocra3/rsession_chd_marato:release-1.2.5
+yocra3/rsession_chd_marato:release-1.2.4
+yocra3/rsession_recombclust:dev
+yocra3/rsession_recombclust:latest
